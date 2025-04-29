@@ -1,5 +1,6 @@
 ﻿namespace ProeveEksamen1
 {
+    //Lavet af Mikkel Klitgaard 
     internal class Program
     {
         static void Main(string[] args)
